@@ -53,6 +53,7 @@
 #### [安全日报 2020年03月25日](https://github.com/hetianlab/secnewstoday/blob/master/secnews-20200325.md)
 #### [安全日报 2020年03月26日](https://github.com/hetianlab/secnewstoday/blob/master/secnews-20200326.md)
 #### [安全日报 2020年03月27日](https://github.com/hetianlab/secnewstoday/blob/master/secnews-20200327.md)
+#### [安全日报 2020年03月30日](https://github.com/hetianlab/secnewstoday/blob/master/secnews-20200330.md)
 
 
 
